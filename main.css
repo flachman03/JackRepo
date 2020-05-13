@@ -1,0 +1,36 @@
+h1 {
+    font-size: 90px;
+    font-family: 'Franklin Gothic Medium';
+    margin: 0px 80px;
+}
+
+h2 {
+    font-size: 25px;  
+    color: green; 
+    font-family: Arial, Helvetica;
+    margin: 0px 80px;
+}
+
+p {
+    color: red;
+    font-family: Cambria, 'Times New Roman', serif;
+    font-size: 30px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 80px 80px 0px 80px;
+}
+
+span{
+    margin: 0px 100px;
+}
+
+p:hover {
+    color: green;
+    cursor: pointer;
+}
+
+p:active {
+    color: black;
+}
+
